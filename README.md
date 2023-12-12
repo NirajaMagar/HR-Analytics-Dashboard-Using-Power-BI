@@ -56,5 +56,7 @@ Throughout this project, I've had the chance to:
 5.	Job Role Affected: The sales role had the highest attrition rate, indicating a need for focused retention efforts in this department to reduce turnover.
 6.	Attrition Rate by Gender for Different Age Group: The attrition count among the age group of 25-34 years 15000 which is maximum among the other age groups.
 
+![image](https://github.com/NirajaMagar/HR-Analytics-Dashboard-Using-Power-BI/assets/153633032/004b77b2-a49c-4fd5-9782-4d969225e562)
+
 
 
